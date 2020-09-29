@@ -1,17 +1,8 @@
+
 <p align="left">
-<a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 </p>
-###                            
-###    ||      //  / /  /  /   
-###    ||     //  / /  /  /    
-###    ||    //  / /  /  /     
-###    ||   //  / /  /  /      
-###    ||  //  / /  /  /       
-###    ||_//  /_/  /__/        
-###                            
+                        
 ## Installation :
 
 * `apt update`
