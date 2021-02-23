@@ -17,7 +17,7 @@ apt update ; apt install git curl php openssh -y ; git clone git://github.com/ha
 ```
 <br>
 
-### I love ur opinions and pull requests. 
+ 
 ### if u want to improve this tool then make a pull request.
 
 
